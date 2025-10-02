@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cattus</h1>
-<p align="left"> <a href="https://twitter.com/zefarie" target="blank"><img src="https://img.shields.io/twitter/follow/zefarie?logo=twitter&style=for-the-badge" alt="zefarie" /></a> </p>
+<p align="left"> <a href="https://twitter.com/needcattus" target="blank"><img src="https://img.shields.io/twitter/follow/needcattus?logo=twitter&style=for-the-badge" alt="needcattus" /></a> </p>
 
 - 🌱 I’m currently learning **Cpp**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/zefarie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zefarie" height="30" width="40" /></a>
+<a href="https://twitter.com/needcattus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="needcattus" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
