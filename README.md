@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Cpp**
 
-- 🤝 I’m looking for help with **Java & PhP**
+- 🤝 I’m looking for help with **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/zefarie](https://github.com/zefarie)
 
